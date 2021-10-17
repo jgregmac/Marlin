@@ -9,10 +9,10 @@ Platformio, and thus cannot be applied directly to my newer 32-bit board:
 
 ## Upgrade parts
 
-Belt tension adjustment knobs:
+Belt tension adjustment knobs:  
 <https://www.thingiverse.com/thing:2986144>
 
-Updated belt puller.  Use if the current one delaminates:
+Updated belt puller.  Use if the current one delaminates:  
 <https://www.thingiverse.com/thing:4934924>
 
 Using the "slotted" Pi Cam mounting case from this project:  
